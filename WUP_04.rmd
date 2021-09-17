@@ -78,3 +78,4 @@ plot(TukeyHSD(model1),las=2)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The original question states there is no difference between the average score on the WORDSUM test and level of schooling DEGREE. According to this research there is a difference that the graduates score better than the LT high schoolers.The p value is 0.000236 very small which means that if the null hypothesis were true the likelihood of getting the result we found is so small therefore I reject the null hypothesis.
